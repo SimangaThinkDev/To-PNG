@@ -1,5 +1,6 @@
 from PIL import Image
 from rembg import remove
+import os
 # input_path = "/home/wtc/Documents/side pojs/remove picture background/jpg-to-png/20230813_182643.jpg"
 input_path = input("Please enter a path:  ")
  
